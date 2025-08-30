@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ⚡ CPU Pipeline Analyzer
 📌 Problem Statement
 
@@ -87,3 +88,6 @@ Pull requests are welcome! Please open an issue first to discuss proposed change
 📄 License
 
 This project is licensed under the MIT License.
+=======
+# CPU_ANALYSER
+>>>>>>> 728641ccc2213cb0c3728a7ef4d923d8343dacc5
