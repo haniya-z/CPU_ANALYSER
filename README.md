@@ -66,10 +66,6 @@ python backend/app.py
 Then open your browser at:
 👉 http://127.0.0.1:8050
 
-📊 Dashboard Preview
-
-👉 (Insert a screenshot of your running app here!)
-
 📦 Requirements
 
 All dependencies are listed in requirements.txt.
